@@ -1,0 +1,35 @@
+_repo: Four-girls-of-forty-years-ago_73301
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Weeden, Eleanor R.
+    gutenberg_agent_id: '57029'
+    url: http://www.gutenberg.org/2009/agents/57029
+creator:
+  author:
+    agent_name: Rhoades, Nina
+    birthdate: 1863
+    deathdate: 1940
+    gutenberg_agent_id: '35766'
+    url: http://www.gutenberg.org/2009/agents/35766
+description: ''
+gutenberg_issued: '2024-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73301'
+language: en
+pgterms:marc904: https://archive.org/details/fourgirlsofforty00rhoa/mode/2up
+pgterms:marc905: 20240205074110rhoades
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bLothrop, Lee & Shepard Co., $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Four girls of forty years ago
+url: http://www.gutenberg.org/ebooks/73301
