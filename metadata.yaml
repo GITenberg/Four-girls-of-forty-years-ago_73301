@@ -5,6 +5,9 @@ contributor:
     agent_name: Weeden, Eleanor R.
     gutenberg_agent_id: '57029'
     url: http://www.gutenberg.org/2009/agents/57029
+covers:
+- cover_type: archival
+  image_path: 73301-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Rhoades, Nina
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '35766'
     url: http://www.gutenberg.org/2009/agents/35766
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73301#Four-girls-of-forty-years-ago
 gutenberg_issued: '2024-03-31'
 gutenberg_type: Text
 identifiers:
